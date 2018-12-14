@@ -1,1 +1,1 @@
-# Learn-X-in-Y-minutes-Where-X-python3-
+# Learn X in Y minutes (Where X=python3)
