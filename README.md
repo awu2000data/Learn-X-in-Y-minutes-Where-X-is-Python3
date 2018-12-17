@@ -6,7 +6,7 @@ Table of Contents
 =================
 <!--ts-->
  * [Table of contents](#table-of-contents)
- * [0. Comments](#0.--comments)
+ * [0. Comments](#0-comments)
 <!--te-->
 
 ## 0. Comments
