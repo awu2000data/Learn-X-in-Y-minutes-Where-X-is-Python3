@@ -25,58 +25,58 @@ as documentation.
 """
 ```
 ## 1. Primitive Datatypes and Operators
-### You have numbers
+#### You have numbers
 ```
 3  # => 3
 ```
-### Math is what you would expect
+#### Math is what you would expect
 ```python
 1 + 1   # => 2
 8 - 1   # => 7
 10 * 2  # => 20
 35 / 5  # => 7.0
 ```
-### Result of integer division truncated down both for positive and negative.
+#### Result of integer division truncated down both for positive and negative.
 ```python
 5 // 3       # => 1
 5.0 // 3.0   # => 1.0 # works on floats too
 -5 // 3      # => -2
 -5.0 // 3.0  # => -2.0
 ```
-### The result of division is always a float
+#### The result of division is always a float
 ```python
 10.0 / 3  # => 3.3333333333333335
 ```
-### Modulo operation
+#### Modulo operation
 ```python
 7 % 3  # => 1
 ```
-### Exponentiation (x^y, x to the yth power)
+#### Exponentiation (x^y, x to the yth power)
 ```python
 2**3  # => 8
 ```
-### Enforce precedence with parentheses
+#### Enforce precedence with parentheses
 ```python
 (1 + 3) * 2  # => 8
 ```
-### Boolean values are primitives 
+#### Boolean values are primitives 
 **(Note: the capitalization)**
 ```python
 True
 False
 ```
-### Negate with not
+#### Negate with not
 ```python
 not True   # => False
 not False  # => True
 ```
-### Boolean Operators
+#### Boolean Operators
 **Note "and" and "or" are case-sensitive**
 ```python
 True and False  # => False
 False or True   # => True
 ```
-### True and False are actually 1 and 0 but with different keywords
+#### True and False are actually 1 and 0 but with different keywords
 ```python
 True + True # => 2
 True * 8    # => 8
