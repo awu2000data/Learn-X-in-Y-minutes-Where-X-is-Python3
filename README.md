@@ -12,11 +12,11 @@ Table of Contents
 <!--te-->
 
 ## 0. Comments
-### Single line comments
+#### Single line comments
 ```python
 # Single line comments start with a number symbol.
 ```
-### Multi-line comments
+#### Multi-line comments
 ```python
 """ 
 Multiline strings can be written
