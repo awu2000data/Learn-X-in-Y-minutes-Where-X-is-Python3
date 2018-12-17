@@ -1,6 +1,14 @@
 # Learn X in Y minutes (Where X=python3)
 **Source:** [Learn X in Y minutes (Where X=python3) — Louie Dinh](https://learnxinyminutes.com/docs/python3/)
 
+
+Table of Contents
+=================
+<!--ts-->
+ * [Table of contents](#table-of-contents)
+ * [0. Comments](#0.--comments)
+<!--te-->
+
 ## 0. Comments
 * **Single line comments**
 ```python
