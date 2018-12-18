@@ -9,6 +9,9 @@ Table of Contents
  * [0. Comments](#0-comments)
     * [Single line comments](#single-line-comments)
     * [Multi-line comments](#multi-line-comments)
+ * [1. Primitive Datatypes and Operators](#1.-Primitive-Datatypes-and-Operators)
+    * [You have numbers](#You-have-numbers)
+    * [Math is what you would expect](#Math-is-what-you-would-expect)
 <!--te-->
 
 ## 0. Comments
