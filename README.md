@@ -12,6 +12,8 @@ Table of Contents
  * [1. Primitive Datatypes and Operators](#1.-Primitive-Datatypes-and-Operators)
     * [You have numbers](#You-have-numbers)
     * [Math is what you would expect](#Math-is-what-you-would-expect)
+    * [Result of integer division truncated down both for positive and negative](#Result-of-integer-division-truncated-down-both-for-positive-and-negative)
+    * [The result of division is always a float](#The-result-of-division-is-always-a-float)
 <!--te-->
 
 ## 0. Comments
@@ -39,7 +41,7 @@ as documentation.
 10 * 2  # => 20
 35 / 5  # => 7.0
 ```
-#### Result of integer division truncated down both for positive and negative.
+#### Result of integer division truncated down both for positive and negative
 ```python
 5 // 3       # => 1
 5.0 // 3.0   # => 1.0 # works on floats too
